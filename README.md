@@ -20,7 +20,7 @@ Frequent customer service calls → Indicator of dissatisfaction.
 Longer account length → More stable customers.
 
 
-🛠️ Model Development & Evaluation
+Model Development & Evaluation
 Models Tested:
 
 Logistic Regression
@@ -34,8 +34,8 @@ Recall (Churn): 86%
 Precision (Churn): 71%
 F1-Score: 78%
 
-🚀 Key Recommendations
-1️⃣ Deploy the Random Forest model for real-time churn detection.
-2️⃣ Improve customer experience by addressing frequent complaints.
-3️⃣ Optimize pricing plans to retain high-usage customers.
-4️⃣ Use customer feedback & competitor insights to refine predictions.
+ Key Recommendations
+1 Deploy the Random Forest model for real-time churn detection.
+2 Improve customer experience by addressing frequent complaints.
+3 Optimize pricing plans to retain high-usage customers.
+4 Use customer feedback & competitor insights to refine predictions.
